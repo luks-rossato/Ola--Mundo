@@ -1,2 +1,3 @@
-# Ola, Mundo
- My first repository
+# Olá, Mundo!
+ My first repository!
+ Esse é meu primeiro repositório, aprendendo ainda...
